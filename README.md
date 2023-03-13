@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Pavan Srinivas Doma
 - 👀 I’m interested in New upraising technology
-- 🌱 I’m currently studying B.tech in core Artificial Intelligence specialization
-- 💞️ I’m am currently improving my skills by doing some projects.
+- 🌱 I’m currently pursuing B.tech in core Artificial Intelligence.
+- 💞️ I’m am improving my skills by doing some projects.
 - 📫 Reach me on pavand.srini@gmail.com
